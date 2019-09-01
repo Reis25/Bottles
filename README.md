@@ -1,2 +1,5 @@
 # Bottles
-Repositório destinado a matéria de PDI e futuramente outros teste. 
+
+maior acurácia (e maior poder computacional) - > adicione epoch >> 20
+
+imagens redimencionadas do dataset 
